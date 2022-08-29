@@ -1,0 +1,35 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Commander",
+        "repositoryURL": "https://github.com/kylef/Commander",
+        "state": {
+          "branch": null,
+          "revision": "4b6133c3071d521489a80c38fb92d7983f19d438",
+          "version": "0.9.1"
+        }
+      },
+      {
+        "package": "COpenSSL",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-COpenSSL.git",
+        "state": {
+          "branch": null,
+          "revision": "ce3113e159b8c6d8565e5d8db2672b572c81aea9",
+          "version": "4.0.2"
+        }
+      },
+      {
+        "package": "PerfectCrypto",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-Crypto.git",
+        "state": {
+          "branch": null,
+          "revision": "98373fa3a6c3d551e498c1babe4f25f650fa1310",
+          "version": "3.3.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
+
